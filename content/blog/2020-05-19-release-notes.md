@@ -3,7 +3,7 @@ title: '2020-05-19 Release Notes: Deprecating Default Editors'
 date: '2020-05-19T10:24:35-03:00'
 author: Nolan Phillips
 ---
-Last Friday marked the end of the TinaCMS core team's Cool Down period and now that [the long weekend](https://en.wikipedia.org/wiki/Victoria_Day "Victoria Day") is over we're ready to get back to work!
+Last Friday marked the end of the **TinaCMS** core team's Cool Down period and now that [the long weekend](https://en.wikipedia.org/wiki/Victoria_Day "Victoria Day") is over we're ready to get back to work!
 
 On Thursday we ran [a betting table](https://basecamp.com/shapeup/2.2-chapter-08#the-betting-table "Shape Up: Chapter 8") where team members pitched different projects that would guide us for the next 6 weeks. Here are the projects we came up with.
 
